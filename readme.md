@@ -31,7 +31,7 @@ For BS12
 - Milestones <https://mods.factorio.com/mod/Milestones>
 - Quick Item Search <https://mods.factorio.com/mod/QuickItemSearch>
 - Robot Attrition <https://mods.factorio.com/mod/robot_attrition>
-- Factorissimo2  <https://mods.factorio.com/mod/Factorissimo2>
+- Factorissimo2-notnotmelon (fork) https://mods.factorio.com/mod/factorissimo-2-notnotmelon
 - Transport Drones <https://mods.factorio.com/mod/Transport_Drones>
 - Updated Construction Drones <https://mods.factorio.com/mod/Updated_Construction_Drones>
 - Helmod <https://mods.factorio.com/mod/helmod>
@@ -51,5 +51,9 @@ For BS12
 - Flow Control <https://mods.factorio.com/mod/Flow%20Control>
 - Fluid Must Flow <https://mods.factorio.com/mod/FluidMustFlow>
 - Inventory Sensor <https://mods.factorio.com/mod/Inventory%20Sensor>
-- 
+- LTN Content Reader https://mods.factorio.com/mod/LTN_Content_Reader
+- Improved Research Queue https://mods.factorio.com/mod/sonaxaton-research-queue
+- RPG System https://mods.factorio.com/mod/RPGsystem
+- Rampant https://mods.factorio.com/mod/Rampant
+- Rampant Evolution https://mods.factorio.com/mod/RampantEvolution
 - Dependencies
